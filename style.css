@@ -1,0 +1,37 @@
+.one {
+    background-image: url(img/arrow-left.svg);
+    background-repeat: no-repeat;
+}
+
+.two {
+    background-image: url(img/zoom.svg);
+    background-repeat: no-repeat;
+}
+
+.three {
+    background-image: url(img/repo.svg);
+    background-repeat: no-repeat;
+}
+
+.four {
+    background-image: url(img/star-filled.svg);
+    background-repeat: no-repeat;
+}
+
+.five {
+    background-image: url(img/star-line.svg);
+    background-repeat: no-repeat;
+}
+
+.six {
+    background-image: url(img/eye.svg);
+    background-repeat: no-repeat;
+}
+
+div {
+    padding: 250px;
+}
+
+body {
+    background-color: #000000;
+}
